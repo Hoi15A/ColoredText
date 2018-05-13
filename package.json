@@ -1,17 +1,27 @@
 {
   "name": "coloredtext",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Make your text colored.",
   "main": "colors.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Immortalizd/ColoredText.git"
+  },
   "keywords": [
     "color",
     "colour",
-    "colored text",
-    "coloured text"
+    "\"colored",
+    "text\"",
+    "\"coloured",
+    "text\""
   ],
   "author": "Immo <seiryu@derg.immo>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Immortalizd/ColoredText/issues"
+  },
+  "homepage": "https://github.com/Immortalizd/ColoredText#readme"
 }
