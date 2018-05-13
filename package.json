@@ -1,0 +1,17 @@
+{
+  "name": "coloredtext",
+  "version": "1.0.4",
+  "description": "Make your text colored.",
+  "main": "colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "colored text",
+    "coloured text"
+  ],
+  "author": "Immo <seiryu@derg.immo>",
+  "license": "GPL-3.0"
+}
